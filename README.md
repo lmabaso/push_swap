@@ -24,7 +24,7 @@ Sort a pile of number using a second pile with a limited list of possible operat
 -	./validation_test/test.sh to run validation test
 
 ## compatibility
-Mac OS
+Mac OS and linux
 
 ## Exemple
 
